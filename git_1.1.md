@@ -214,4 +214,4 @@ git revert <commit-id>                          # Safely undo pushed commit
 
 **Created**: December 2025  
 **Source**: freeCodeCamp Git & GitHub Handbook  
-**Author**: Learn with Sumit / Sumit Saha
+**Author**: Salek Masud Parvez
